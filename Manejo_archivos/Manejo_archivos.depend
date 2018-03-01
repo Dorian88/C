@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1519849251 source:c:\users\dorian\documents\codecblocks projects\curso c\manejo_archivos\main.c
+	<stdio.h>
+	<stdlib.h>
+
